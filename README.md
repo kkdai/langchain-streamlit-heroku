@@ -1,5 +1,7 @@
 # Quickstart Streamlit App with LangChain on Heroku
 
+![](./img/demo.png)
+
 A Python web application using Streamlit as the frontend and leveraging the capabilities of OpenAI GPT. This app prompts for a question and returns an AI-generated response.
 
 ## Deploy
